@@ -1,5 +1,13 @@
 # Ghost-Azure 
 
+> 📢 *Ghost on Azure App Service has been archived*
+>
+> The project **Ghost on Azure App Service** has officially reached its end of life.
+>
+> Learn more about the background, migration options, and what this change means going forward in the full post below:
+>
+> 🔗 [Read the announcement → Ghost on Azure App Service Sunsets](https://www.gatevnotes.com/ghost-on-azure-app-service-sunsets/)
+
 ## Why Ghost-Azure?
 Straight out of the box, the current versions of Ghost aren't compatible with Azure App Service. *Ghost-Azure* resolves this by providing a production-ready template that can be hosted directly on Azure App Service (on Windows). 
 
@@ -28,3 +36,4 @@ More info on [Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service
 Feedback with improvements and pull requests from the community will be highly appreciated and accepted.
 
 Please open Pull requests only in the [Ghost-Release-Uploader repository](https://github.com/RadoslavGatev/Ghost-Release-Uploader) as commits to Ghost-Azure are fully automated by Azure DevOps Pipelines that merges the original code from https://github.com/TryGhost/Ghost with the files needed for Azure App Service.
+
